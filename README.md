@@ -1,5 +1,3 @@
-# DockerECRDemo
-
 # What is GitLab CI/CD?
 
 **GitLab CI/CD** is a tool built into GitLab for software development through the continuous methodologies: 
